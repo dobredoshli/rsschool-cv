@@ -41,7 +41,7 @@ A front-end developer is responsible for creating and designing the user interfa
 
 
 * Vistula University
-(1st Year Bachelor)
+2тв Year Bachelor)
 ---
 
 ## Languages
